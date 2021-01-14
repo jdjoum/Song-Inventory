@@ -1,0 +1,40 @@
+
+Tune (#): 1
+The Artist Name is: Bones.
+The Song Name is: Drip.
+The Song ID is: 90.
+The (#) of online Song Streams is: 1222.
+The Song Cost is: $1.29
+The Album Cost is: $7.99
+
+Tune (#): 2
+The Artist Name is: XavierWulf.
+The Song Name is: Dengen.
+The Song ID is: 87.
+The (#) of online Song Streams is: 1679.
+The Song Cost is: $1.29
+The Album Cost is: $8.99
+
+Tune (#): 3
+The Artist Name is: LilUziVert.
+The Song Name is: XOTourLife.
+The Song ID is: 57.
+The (#) of online Song Streams is: 1890.
+The Song Cost is: $1.29
+The Album Cost is: $10.99
+
+Tune (#): 4
+The Artist Name is: GucciMane.
+The Song Name is: Lemonade.
+The Song ID is: 24.
+The (#) of online Song Streams is: 1997.
+The Song Cost is: $1.29
+The Album Cost is: $6.99
+
+Tune (#): 5
+The Artist Name is: LilSkies.
+The Song Name is: Lust.
+The Song ID is: 32.
+The (#) of online Song Streams is: 1427.
+The Song Cost is: $1.29
+The Album Cost is: $5.99
